@@ -48,7 +48,8 @@ Let's try this out utilizing Javascript for Copilot.
    GitHub Copilot will automatically suggest an entire function body in grayed text. Below is an example of what you'll most likely see, but the exact suggestion may vary.
    ![Screen Shot 2023-04-27 at 10 23 06 AM](https://user-images.githubusercontent.com/26442605/234941079-b4bf3e9d-fc70-4b20-b74c-0ee753ba344e.png)
 
-5. Press `Tab` to accept the suggestion.
+5. Press `Tab` to accept the suggestio
+n.
 
 ### :keyboard: Activity: Push code to your repository from the codespace
 
