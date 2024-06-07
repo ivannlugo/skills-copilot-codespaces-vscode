@@ -49,7 +49,7 @@ Let's try this out utilizing Javascript for Copilot.
    ![Screen Shot 2023-04-27 at 10 23 06 AM](https://user-images.githubusercontent.com/26442605/234941079-b4bf3e9d-fc70-4b20-b74c-0ee753ba344e.png)
 
 5. Press `Tab` to accept the suggestio
-n.
+git psuhn.
 
 ### :keyboard: Activity: Push code to your repository from the codespace
 
